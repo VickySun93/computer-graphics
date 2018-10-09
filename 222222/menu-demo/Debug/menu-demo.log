@@ -1,0 +1,31 @@
+﻿  menu-demo.cpp
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(22): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(78): note: see previous definition of 'INFINITY'
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(244): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(250): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(259): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(271): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(313): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(319): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(328): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(369): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(375): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(384): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(397): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(440): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(446): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(455): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(503): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(510): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(511): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(519): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(537): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(538): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(544): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(545): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(551): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(552): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(570): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\junran\desktop\menu-demo\menu-demo\menu-demo.cpp(495): warning C4715: 'trace': not all control paths return a value
+  menu-demo.vcxproj -> C:\Users\Junran\Desktop\menu-demo\menu-demo\Debug\menu-demo.exe
+  menu-demo.vcxproj -> C:\Users\Junran\Desktop\menu-demo\menu-demo\Debug\menu-demo.pdb (Full PDB)
